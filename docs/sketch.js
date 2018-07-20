@@ -11,7 +11,7 @@ var fr; //framerate display
 function setup() {
   createCanvas(w, h);
   pixelDensity(1);
-  scl = createSlider(1,100,1);
+  scl = createSlider(1,50,1);
   dx = createSlider(-500,500,0);
   fr = createDiv('');
 }
