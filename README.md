@@ -1,2 +1,3 @@
 # Mandelbrot-Set-Visualisation
-Visualisation of the mandelbrot set
+Visualisation of the Mandelbrot Set
+https://delsquared.github.io/Mandelbrot-Set-Visualisation/
